@@ -12,11 +12,12 @@ The application predicts a student's **Math Score** based on input parameters su
 This project is built using a modular architecture with **Python**, **Scikit-Learn**, and **FastAPI** for the web interface.
 
 ##  Demo
+ exam_pred.png
 
 
 ## 🛠️ Tech Stack
 * **Backend:** Python, FastAPI, Uvicorn
-* **Machine Learning:** Scikit-Learn, Pandas, NumPy, Dill, XGBoost/CatBoost (if used)
+* **Machine Learning:** Scikit-Learn, Pandas, NumPy, Dill, XGBoost/CatBoost
 * **Frontend:** HTML, CSS, Jinja2 Templates
 * **Development Tools:** VS Code, Git, GitHub
 
