@@ -12,7 +12,8 @@ The application predicts a student's **Math Score** based on input parameters su
 This project is built using a modular architecture with **Python**, **Scikit-Learn**, and **FastAPI** for the web interface.
 
 ##  Demo
- exam_pred.png
+| ![Home Page](exam_pred.png) |
+
 
 
 ## 🛠️ Tech Stack
