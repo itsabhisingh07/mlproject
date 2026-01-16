@@ -27,7 +27,7 @@ The project follows a standard production-grade Machine Learning directory struc
 
 ```bash
 ├── artifacts/              # Stores the trained model.pkl and preprocessor.pkl
-├── notebook/               # Jupyter notebooks for EDA and experimentation
+├── notebook/               # Jupyter notebooks for EDA 
 ├── src/
 │   ├── components/         # Core ML modules
 │   │   ├── data_ingestion.py      # Reads data, splits into train/test
