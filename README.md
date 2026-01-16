@@ -1,4 +1,4 @@
-# 🎓 Student Exam Performance Indicator
+# Student Exam Performance Indicator
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/FastAPI-0.95%2B-green)](https://fastapi.tiangolo.com/)
@@ -16,7 +16,7 @@ This project is built using a modular architecture with **Python**, **Scikit-Lea
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Backend:** Python, FastAPI, Uvicorn
 * **Machine Learning:** Scikit-Learn, Pandas, NumPy, Dill, XGBoost/CatBoost
 * **Frontend:** HTML, CSS, Jinja2 Templates
